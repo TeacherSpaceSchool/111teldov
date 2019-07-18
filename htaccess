@@ -1,0 +1,60 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page5731302.html
+
+RewriteEngine On
+
+RewriteRule ^news$ page6152709.html [NC]
+RewriteRule ^news/$ page6152709.html [NC]
+
+RewriteRule ^gfg$ page5778451.html [NC]
+RewriteRule ^gfg/$ page5778451.html [NC]
+
+RewriteRule ^ret$ page5962168.html [NC]
+RewriteRule ^ret/$ page5962168.html [NC]
+
+RewriteRule ^contact$ page6002822.html [NC]
+RewriteRule ^contact/$ page6002822.html [NC]
+
+RewriteRule ^ds1$ page6166422.html [NC]
+RewriteRule ^ds1/$ page6166422.html [NC]
+
+RewriteRule ^dsd$ page5997349.html [NC]
+RewriteRule ^dsd/$ page5997349.html [NC]
+
+RewriteRule ^mas$ page5622489.html [NC]
+RewriteRule ^mas/$ page5622489.html [NC]
+
+RewriteRule ^ru$ page5731302.html [NC]
+RewriteRule ^ru/$ page5731302.html [NC]
+
+RewriteRule ^kg$ page6064286.html [NC]
+RewriteRule ^kg/$ page6064286.html [NC]
+
+RewriteRule ^myprofile$ page6188045.html [NC]
+RewriteRule ^myprofile/$ page6188045.html [NC]
+
+RewriteRule ^ourcompany$ page6175211.html [NC]
+RewriteRule ^ourcompany/$ page6175211.html [NC]
+
+RewriteRule ^maksym$ page6271764.html [NC]
+RewriteRule ^maksym/$ page6271764.html [NC]
+
+RewriteRule ^blogvnutri$ page6271999.html [NC]
+RewriteRule ^blogvnutri/$ page6271999.html [NC]
+
+RewriteRule ^faq$ page6272037.html [NC]
+RewriteRule ^faq/$ page6272037.html [NC]
+
+RewriteRule ^talicaliderov$ page6272081.html [NC]
+RewriteRule ^talicaliderov/$ page6272081.html [NC]
+
+RewriteRule ^oprilojenii$ page6274833.html [NC]
+RewriteRule ^oprilojenii/$ page6274833.html [NC]
+
+RewriteRule ^ddr2$ page6274935.html [NC]
+RewriteRule ^ddr2/$ page6274935.html [NC]
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild3961-3431-4037-a661-376230396433/favicon_1.ico [R=302,L]
+
